@@ -1,0 +1,33 @@
+.container {
+    display: flex;
+    width: 100vw;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center; 
+    margin:20px;
+    padding: 20px;
+    
+}
+.element-container{
+    height: 90%;
+    width: 100%;
+    
+}
+.register-input {
+    /* border-color: green; */
+    border: 2px solid #35ddf3;
+    margin-top: 10px;
+    border-radius: 5px;
+    padding: 15px;
+    width: 70%;
+}
+.button-container {
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    margin-top: 80px;
+    margin-left: 20px;
+    justify-content: center;
+    text-align: center;
+
+}

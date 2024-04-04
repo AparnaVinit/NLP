@@ -1,0 +1,17 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-content:center;
+    flex-wrap: 'wrap';
+    flex-direction:'column'
+}
+
+.ingredient_container{
+    background-color:#35ddf3;
+    justify-content: center;
+    width: 300px;
+}
+
+.card_container{
+    justify-content: center;
+}
